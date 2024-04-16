@@ -1,0 +1,23 @@
+{
+  "name": "skysleamdorob2",
+  "version": "1.0.0",
+  "description": "TEAdorob2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dikerions/dorob2.git"
+  },
+  "dependencies": {
+    "skysleamwork5": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dikerions/dorob2/issues"
+  },
+  "homepage": "https://github.com/Dikerions/dorob2#readme"
+}
